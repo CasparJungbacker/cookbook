@@ -1,2 +1,11 @@
 format: jb-book
 root: welcome.md
+
+parts:
+  - caption: Recipes
+    chapters:
+    - file: python/overview.md
+      sections:
+      - file: python/matplotlib/overview.md
+        sections:
+        - file: python/matplotlib/mpl-legend-outside-plot.ipynb
