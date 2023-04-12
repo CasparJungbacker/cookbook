@@ -9,3 +9,7 @@ parts:
       - file: python/matplotlib/overview.md
         sections:
         - file: python/matplotlib/mpl-legend-outside-plot.ipynb
+
+    - file: latex/overview.md
+      sections:
+      - file: latex/apacite.md
